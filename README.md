@@ -1,4 +1,5 @@
 
+  
 <h1 align="center">
   <br>
  	BOOKMARK
@@ -21,11 +22,14 @@ O Bookmark é um aplicativo semelhante a uma estante virtual, onde o usuário ad
 ## Protótipo
 Confira o protótipo do aplicativo no <a href="https://www.figma.com/proto/pLd950Q5pwy6glaK50Z9CQ/Bookmark-app-(PT)---Fixed?node-id=0%3A453&scaling=min-zoom" title="Protótipo do Bookmark">Figma</a>: conheça melhor as funcionalidades e seu design.
 
-<h1 align="center">
+<p align="center">
   <br>
  	<img src="https://i.imgur.com/t19SIRe.png"></a>
   <br>
-</h1>
+</p>
+
+## Como contribuir
+Veja nosso arquivo [CONTRIBUTING.md](https://github.com/UTFPR-SL/bookmark/blob/main/CONTRIBUTING.md) para entender como você pode contribuir com nosso projeto
 
 ## Licença
 Este projeto utiliza a licença [MIT](https://mit-license.org/) - veja o arquivo [LICENSE](https://github.com/UTFPR-SL/bookmark/blob/main/LICENSE) para mais detalhes.
