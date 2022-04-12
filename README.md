@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <br>
  	BOOKMARK
@@ -25,3 +26,6 @@ Confira o protótipo do aplicativo no <a href="https://www.figma.com/proto/pLd95
  	<img src="https://i.imgur.com/t19SIRe.png"></a>
   <br>
 </h1>
+
+## Licença
+Este projeto utiliza a licença [MIT](https://mit-license.org/) - veja o arquivo [LICENSE](https://github.com/UTFPR-SL/bookmark/blob/main/LICENSE) para mais detalhes.
