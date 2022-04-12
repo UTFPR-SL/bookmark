@@ -10,8 +10,8 @@ Estamos animados com sua contribuição!  Queremos que contribuir para este proj
 ## Github é nosso lar
 Usamos o github para hospedar código, rastrear bugs e solicitações de funções, além de aceitar pull requests.
 
-## Nós seguimos o [Github Flow](https://docs.github.com/pt/get-started/quickstart/github-flow), Tudo deve ser feito através um pull request
-Ficamos muito felizes em receber seus pull requests. Siga os passos a baixo:
+## Nós seguimos o [Github Flow](https://docs.github.com/pt/get-started/quickstart/github-flow). Tudo deve ser feito através um pull request
+Ficamos muito felizes em receber seus pull requests. Siga os passos abaixo:
 
 1. Faça um fork do repositório e crie uma branch a partir da `main`.
 2. Se você adicionou um código que deve ser testado, adicione testes.
@@ -33,10 +33,10 @@ Usamos as issues do GitHub para rastrear bugs. Relate um bug [abrindo uma nova i
 - Um breve resumo do seu contexo
 - Passos para reproduzir
   - Seja específico!
-  - Se possivel disponibilize um exemplo
+  - Se possível, disponibilize um exemplo
 - O que deveria acontecer
 - O que realmente acontece
-- Observações (possivelmente incluindo por que você acha que isso pode estar acontecendo, ou coisas que você tentou que não funcionou)
+- Observações (possivelmente incluindo porquê você acha que isso pode estar acontecendo, ou coisas que você tentou que não funcionou)
 
 ## Licença
 Este projeto utiliza a licença [MIT](https://mit-license.org/) - veja o arquivo [LICENSE](https://github.com/UTFPR-SL/bookmark/blob/main/LICENSE) para mais detalhes.
