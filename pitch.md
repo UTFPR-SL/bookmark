@@ -1,5 +1,5 @@
 
-## Detalhes sobre pandas
+## Detalhes sobre Pandas
 
 ### Tecnologias
 
@@ -26,8 +26,11 @@
   
 ### Comunicando-se com a comunidade
   
-  * Quais são os meios de comunicação disponíveis e quais são os enfoques de cada um? (Fóruns, listas de discussão, rastreador de problemas, IRC, Slack, etc.) Lista de email (https://groups.google.com/g/pydata) e Gitter (https://gitter.im/pydata/pandas)
-  * Você já usou algum deles? Não
+  * Quais são os meios de comunicação disponíveis e quais são os enfoques de cada um? (Fóruns, listas de discussão, rastreador de problemas, IRC, Slack, etc.) 
+	  * Lista de email (https://groups.google.com/g/pydata)
+	  * Gitter (https://gitter.im/pydata/pandas)
+	  * Issues do Github (https://github.com/pandas-dev/pandas/issues)
+  * Você já usou algum deles? Issues do Github
 
 ### Configuração do espaço de trabalho
 
